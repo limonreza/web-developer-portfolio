@@ -189,6 +189,12 @@ footer{
     width: 50%;
 }
 
+.footer-column a{
+    margin-right: 15px;
+    
+}
+
+
 footer input[type="text"], footer input[type="email"], footer textarea{
     width: 100%;
     height: 64px;
